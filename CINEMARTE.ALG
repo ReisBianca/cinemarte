@@ -3,7 +3,7 @@ Algoritmo "Cinemarte"
 //Sistema: Cinemarte
 //Autora: Bianca Reis Santana do Nascimento
 //Data de início: 05/06/2024
-//Última atualização: 17/06/2024
+//Última atualização: 17/06/2024 (20:40)
 
 Var
    //Variáveis de menu
