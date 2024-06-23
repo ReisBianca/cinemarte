@@ -15,7 +15,7 @@ O objetivo é o estudo da lógica de programação, focando em: operadores relac
  
 - *Voltar e sair*: O sistema permite que o usuário volte e saía da tela que estiver; permitindo uma navegação fluída, mesmo sendo um programa de console;
 
--*Controle de permissões*: O usuário só consegue sair do modo cliente caso saiba a senha administradora, isto é, caso ele seja um administrador;
+- *Controle de permissões*: O usuário só consegue sair do modo cliente caso saiba a senha administradora, isto é, caso ele seja um administrador;
 
 <img src="imagens/sair-modo-cliente.jpg">
 
